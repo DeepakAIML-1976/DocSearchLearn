@@ -1,0 +1,12 @@
+&AA-R-SP 1003.064 (EN)_3.0.pdf
+&AA-R-SS 1023 (EN)_4.0.pdf
+&AA-R-SS 2010 (EN)_2.0.doc
+.gitkeep
+a.txt
+g1a-50.pdf
+GA_28-E11_C110 M-16X 547pcs_Rev5.pdf
+GA_28-E12_C134 M-16X 823pcs_Rev5.pdf
+PLIDCO FLANGE.pdf
+README.md
+sample_spec.pdf
+sample_spec.txt

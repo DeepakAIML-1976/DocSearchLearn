@@ -1,0 +1,11 @@
+document_id,filename,discipline,project,path
+DOC001,&AA-R-SP 1003.064 (EN)_3.0.pdf,Mechanical,ProjectA,data\&AA-R-SP 1003.064 (EN)_3.0.pdf
+DOC002,&AA-R-SS 1023 (EN)_4.0.pdf,Piping,ProjectA,data\&AA-R-SS 1023 (EN)_4.0.pdf
+DOC003,&AA-R-SS 2010 (EN)_2.0.doc,Mechanical,ProjectA,data\&AA-R-SS 2010 (EN)_2.0.doc
+DOC003,g1a-50.pdf,Mechanical,ProjectA,data\g1a-50.pdf
+DOC003,GA_28-E11_C110 M-16X 547pcs_Rev5.pdf,Mechanical,ProjectA,data\GA_28-E11_C110 M-16X 547pcs_Rev5.pdf
+DOC003,GA_28-E12_C134 M-16X 823pcs_Rev5.pdf,Mechanical,ProjectA,data\GA_28-E12_C134 M-16X 823pcs_Rev5.pdf
+DOC003,PLIDCO FLANGE.pdf,Mechanical,ProjectA,data\PLIDCO FLANGE.pdf
+DOC003,README.md,Mechanical,ProjectA,data\README.md
+DOC003,sample_spec.pdf,Mechanical,ProjectA,data\sample_spec.pdf
+DOC003,sample_spec.txt,Mechanical,ProjectA,data\sample_spec.txt

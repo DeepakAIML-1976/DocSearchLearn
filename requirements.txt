@@ -1,0 +1,12 @@
+pymupdf
+pdfplumber
+python-docx
+openpyxl
+pytesseract
+pillow
+openai
+sentence-transformers
+faiss-cpu
+pandas
+tqdm
+openai>=1.0.0
