@@ -12,3 +12,4 @@ tqdm
 openai>=1.0.0
 uvicorn
 gunicorn
+streamlit
